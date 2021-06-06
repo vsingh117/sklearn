@@ -1,0 +1,1 @@
+This folder have pickle files created as a part of the prediction model developed via classification method.
