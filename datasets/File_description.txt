@@ -1,0 +1,3 @@
+Following are the list of files in this folder :- 
+1. Files for performing sentiment analysis.
+2. Files for performing linear and logistic regression.
